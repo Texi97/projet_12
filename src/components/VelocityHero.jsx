@@ -86,7 +86,6 @@ const Links = () => {
     <nav className="flex gap-3 text-sm">
       <a href="#projets">Projets</a>
       <a href="#parcours">Parcours</a>
-      <a href="#">Compétences</a>
     </nav>
   );
 };
