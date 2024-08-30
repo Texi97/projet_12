@@ -95,7 +95,7 @@ const CenterCopy = () => {
     <div className="flex items-center justify-center px-4">
       <img
         src="/img/hero_image.jpg"
-        alt="Placeholder image"
+        alt="Colorful"
         className="mr-2 h-full w-20 bg-neutral-200 object-cover"
       />
       <h1 className="text-3xl font-bold text-neutral-400 sm:text-5xl md:text-7xl">
