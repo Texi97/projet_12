@@ -3,8 +3,8 @@ import { VelocityHero } from "../components/VelocityHero";
 import { ProjectsTitle } from "../components/ProjectsTitle";
 import { TextParallaxContentExample } from "../components/TextParallaxContentExample";
 import "../../src/index.css";
-import { BouncyCardsFeatures } from "../components/BouncyCardsFeatures";
 import { VanishText } from "../components/VanishText";
+import StackedCardTestimonials from "../components/StackedCardTestimonials";
 
 const Home = () => {
   return (
@@ -13,7 +13,7 @@ const Home = () => {
       <ProjectsTitle />
       <TextParallaxContentExample />
       <VanishText />
-      <BouncyCardsFeatures />
+      <StackedCardTestimonials />
     </div>
   );
 };
