@@ -130,7 +130,6 @@ const Card = ({
       onClick={() => setSelected(position)}
       className="absolute top-0 left-0 w-full min-h-full p-8 lg:p-12 cursor-pointer flex flex-col justify-between rounded-3xl"
     >
-      <img src="{testimonial.university}" alt="" />
       <p className="text-xl lg:text-3xl font-light  my-8">{description}</p>
       <div>
         <span className="block font-semibold text-lg">{name}</span>
@@ -149,20 +148,17 @@ const testimonials = [
     title: "2023-2024",
   },
   {
-    university: "Hello2",
     description: "Master 1 & 2 en Communication en alternance chez Ecilia",
     name: "INSEEC, Lyon",
     title: "2021-2023",
   },
   {
-    university: "Hello3",
     description:
       "Licence Professionnelle Communication en alternance à la Mutualité Française Saône-et-Loire",
     name: "Université Jean-Moulin, Lyon",
     title: "2020-2021",
   },
   {
-    university: "Hello4",
     description: "DUT Information-Communication",
     name: "Université de Bourgogne, Dijon",
     title: "2016-2018",
