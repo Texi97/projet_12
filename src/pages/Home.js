@@ -5,6 +5,7 @@ import { TextParallaxContentExample } from "../components/TextParallaxContentExa
 import "../../src/index.css";
 import { VanishText } from "../components/VanishText";
 import StackedCardTestimonials from "../components/StackedCardTestimonials";
+import { Footer } from "../components/Footer";
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
       <TextParallaxContentExample />
       <VanishText />
       <StackedCardTestimonials />
+      <Footer />
     </div>
   );
 };

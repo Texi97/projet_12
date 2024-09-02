@@ -5,7 +5,10 @@ const StackedCardTestimonials = () => {
   const [selected, setSelected] = useState(0);
 
   return (
-    <section className="bg-white py-24 px-4 lg:px-8 grid items-center grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-4 overflow-hidden">
+    <section
+      className="bg-white py-24 px-4 lg:px-8 grid items-center grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-4 overflow-hidden"
+      id="parcours"
+    >
       <div className="p-4">
         <h3 className="text-4xl font-bold">
           Mon parcours <span className="text-slate-400"> universitaire</span>
