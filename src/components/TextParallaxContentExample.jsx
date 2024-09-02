@@ -1,15 +1,16 @@
 import React, { useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { FiArrowRight } from "react-icons/fi";
-import { FaReact } from "react-icons/fa";
 import { IconContext } from "react-icons";
 import { RiJavascriptFill } from "react-icons/ri";
-
-import { FaYarn } from "react-icons/fa";
-import { FaNodeJs } from "react-icons/fa";
-import { FaGoogle } from "react-icons/fa";
-import { FaHtml5 } from "react-icons/fa";
-import { FaCss3Alt } from "react-icons/fa";
+import {
+  FaReact,
+  FaYarn,
+  FaNodeJs,
+  FaGoogle,
+  FaHtml5,
+  FaCss3Alt,
+} from "react-icons/fa";
 import { SiSwagger } from "react-icons/si";
 
 export const TextParallaxContentExample = () => {

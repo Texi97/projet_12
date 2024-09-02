@@ -15,7 +15,7 @@ const StackedCardTestimonials = () => {
         </h3>
         <p className="text-slate-500 my-4">
           Voici les quatre étapes de mon parcours universitaires qui me
-          permettent auourd'hui d'harmoniser la compréhension des utilisateurs
+          permettent aujourd'hui d'harmoniser la compréhension des utilisateurs
           avec une expertise techique, pour créer des expériences web
           engageantes et intuitives !
         </p>
@@ -104,8 +104,8 @@ const Card = ({
 }) => {
   const scale = position <= selected ? 1 : 1 + 0.015 * (position - selected);
   const offset = position <= selected ? 0 : 95 + (position - selected) * 3;
-  const background = position % 2 ? "black" : "white";
-  const color = position % 2 ? "white" : "black";
+  const background = position % 2 ? "#0A0A0A" : "white";
+  const color = position % 2 ? "white" : "#0A0A0A";
 
   return (
     <motion.div

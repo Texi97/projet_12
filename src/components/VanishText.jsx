@@ -4,11 +4,11 @@ import GlowingChip from "./GlowingChip";
 
 export const VanishText = () => {
   return (
-    <div className="bg-cyan-700 px-4 pt-24 pb-48 text-center md:py-36 mt-12 mb-24 flex flex-col items-center gap-8">
+    <div className="bg-slate-700 px-4 pt-24 pb-48 text-center md:py-36 mt-12 mb-24 flex flex-col items-center gap-8">
       <GlowingChip>
         <span className="text-green-400">•</span> Actuellement en ligne
       </GlowingChip>
-      <h3 className="text-3xl font-medium text-cyan-400 sm:text-4xl md:text-5xl lg:text-6xl">
+      <h3 className="text-3xl font-medium text-slate-400 sm:text-4xl md:text-5xl lg:text-6xl">
         Je réalise votre site
         <AnimatedText
           phrases={["Vitrine", "Portfolio", "eCommerce", "One-page"]}
