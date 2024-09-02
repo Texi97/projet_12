@@ -5,8 +5,6 @@ import { twMerge } from "tailwind-merge";
 import { FiArrowUpRight } from "react-icons/fi";
 import { RiJavascriptFill } from "react-icons/ri";
 import { FaReact, FaYarn, FaNodeJs } from "react-icons/fa";
-import { FaLinkedin } from "react-icons/fa";
-import { IconContext } from "react-icons";
 
 export const FoldingLogos = () => {
   return (
