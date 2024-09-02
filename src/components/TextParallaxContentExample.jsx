@@ -208,7 +208,7 @@ const ExampleContent1 = () => (
             Node JS
           </span>
         </button>
-        <button className="text-lg font-medium group flex h-10 items-center gap-2 rounded-lg bg-[#E2F3FF] pl-3 pr-4 cursor-auto">
+        <button className="text-lg font-medium group flex h-10 items-center gap-2 rounded-lg bg-[#E2F3FF] pl-3 pr-4 cursor-auto h-auto">
           <span className="flex flex-row gap-2 justify-items-center items-center text-[#477CEE]">
             <IconContext.Provider
               value={{ color: "#477CEE", className: "global-class-name" }}
