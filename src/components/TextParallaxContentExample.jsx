@@ -1,12 +1,10 @@
 import React, { useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { FiArrowRight } from "react-icons/fi";
-import { Link } from "react-router-dom";
 import { FaReact } from "react-icons/fa";
 import { IconContext } from "react-icons";
 import { RiJavascriptFill } from "react-icons/ri";
-import { SiNextdotjs } from "react-icons/si";
-import { SiRedux } from "react-icons/si";
+
 import { FaYarn } from "react-icons/fa";
 import { FaNodeJs } from "react-icons/fa";
 import { FaGoogle } from "react-icons/fa";
