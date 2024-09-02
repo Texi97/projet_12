@@ -128,7 +128,7 @@ const Card = ({
         ease: "easeOut",
       }}
       onClick={() => setSelected(position)}
-      className="absolute top-0 left-0 w-full min-h-full p-8 lg:p-12 cursor-pointer flex flex-col justify-between rounded-3xl"
+      className="absolute top-0 left-0 w-full min-h-full p-8 lg:pt-44 cursor-pointer flex flex-col justify-between"
     >
       <p className="text-xl lg:text-3xl font-light  my-8">{description}</p>
       <div>
