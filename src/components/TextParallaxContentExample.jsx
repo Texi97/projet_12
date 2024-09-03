@@ -131,6 +131,7 @@ const ExampleContent1 = () => (
           href="https://github.com/Texi97/724_events.git"
           className="text-lg font-medium group flex h-10 items-center gap-2 rounded-lg bg-cyan-100 pl-3 pr-4 transition-all duration-300 ease-in-out hover:bg-cyan-500 hover:pl-2 hover:text-white active:bg-neutral-700 w-fit"
           target="_blank"
+          rel="noopener noreferrer"
         >
           <span className="rounded-full bg-black p-1 text-sm transition-colors duration-300 group-hover:bg-white">
             <FiArrowRight className="-translate-x-[200%] text-[0px] transition-all duration-300 group-hover:translate-x-0 group-hover:text-lg group-hover:text-sky-500 group-active:-rotate-45" />
@@ -143,6 +144,7 @@ const ExampleContent1 = () => (
           href="https://724-events-zeta.vercel.app/"
           target="_blank"
           className="text-lg font-medium group flex h-10 items-center gap-2 rounded-lg bg-cyan-100 pl-3 pr-4 transition-all duration-300 ease-in-out hover:bg-cyan-500 hover:pl-2 hover:text-white active:bg-neutral-700 w-fit"
+          rel="noopener noreferrer"
         >
           <span className="rounded-full bg-black p-1 text-sm transition-colors duration-300 group-hover:bg-white">
             <FiArrowRight className="-translate-x-[200%] text-[0px] transition-all duration-300 group-hover:translate-x-0 group-hover:text-lg group-hover:text-sky-500 group-active:-rotate-45" />
@@ -244,6 +246,7 @@ const ExampleContent2 = () => (
           href="https://github.com/Texi97/Booki.git"
           target="_blank"
           className="text-lg font-medium group flex h-10 items-center gap-2 rounded-lg bg-cyan-100 pl-3 pr-4 transition-all duration-300 ease-in-out hover:bg-cyan-500 hover:pl-2 hover:text-white active:bg-neutral-700 w-fit"
+          rel="noopener noreferrer"
         >
           <span className="rounded-full bg-black p-1 text-sm transition-colors duration-300 group-hover:bg-white">
             <FiArrowRight className="-translate-x-[200%] text-[0px] transition-all duration-300 group-hover:translate-x-0 group-hover:text-lg group-hover:text-sky-500 group-active:-rotate-45" />
@@ -255,6 +258,7 @@ const ExampleContent2 = () => (
         <a
           href="https://texi97.github.io/Booki/"
           target="_blank"
+          rel="noopener noreferrer"
           className="text-lg font-medium group flex h-10 items-center gap-2 rounded-lg bg-cyan-100 pl-3 pr-4 transition-all duration-300 ease-in-out hover:bg-cyan-500 hover:pl-2 hover:text-white active:bg-neutral-700 w-fit"
         >
           <span className="rounded-full bg-black p-1 text-sm transition-colors duration-300 group-hover:bg-white">
@@ -316,6 +320,7 @@ const ExampleContent3 = () => (
         <a
           href="https://github.com/Texi97/Sophie-Bluel.git"
           target="_blank"
+          rel="noopener noreferrer"
           className="text-lg font-medium group flex h-10 items-center gap-2 rounded-lg bg-cyan-100 pl-3 pr-4 transition-all duration-300 ease-in-out hover:bg-cyan-500 hover:pl-2 hover:text-white active:bg-neutral-700 w-fit"
         >
           <span className="rounded-full bg-black p-1 text-sm transition-colors duration-300 group-hover:bg-white">
