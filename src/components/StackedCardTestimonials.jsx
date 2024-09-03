@@ -14,9 +14,9 @@ const StackedCardTestimonials = () => {
           Mon parcours <span className="text-slate-400"> universitaire</span>
         </h3>
         <p className="text-slate-500 my-4">
-          Voici les quatre étapes de mon parcours universitaires qui me
+          Voici les quatre étapes de mon parcours universitaire qui me
           permettent aujourd'hui d'harmoniser la compréhension des utilisateurs
-          avec une expertise techique, pour créer des expériences web
+          avec une expertise technique, pour créer des expériences web
           engageantes et intuitives !
         </p>
         <SelectBtns
